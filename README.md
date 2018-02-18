@@ -1,4 +1,4 @@
-# Eldochain: A blockchain for seniors' health record
+# GigaCoin: A cryptocurrency and blockchain for clean energy incentivization
 
 ## Setting up and running
 
