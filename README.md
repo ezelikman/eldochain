@@ -1,4 +1,4 @@
-# GigaCoin: A cryptocurrency and blockchain for clean energy incentivization
+# GigaCoin: A cryptocurrency for clean energy incentivization
 
 ## Setting up and running
 
